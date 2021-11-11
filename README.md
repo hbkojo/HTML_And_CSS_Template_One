@@ -2,4 +2,4 @@
 HTML And CSS Design Number One
 
 This is simple Responsive template , You can browse leon template from this link:
-[file:///D:/Template%20One/index.html#contact](file:///D:/Template%20One/index.html#contact)
+[click here](file:///D:/Template%20One/index.html#contact)
